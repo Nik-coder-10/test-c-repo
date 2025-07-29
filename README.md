@@ -62,18 +62,6 @@ bash
 bash
 ./tictactoe
 
-## 🎨 Game Preview
-
-     |     |     
-  X  |  O  |  3  
-_____|_____|_____
-     |     |     
-  4  |  X  |  O  
-_____|_____|_____
-     |     |     
-  7  |  8  |  X  
-     |     |     
-
 ## 📌 Highlights
 
 * Clean and modular function structure
